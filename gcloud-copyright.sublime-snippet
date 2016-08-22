@@ -15,8 +15,7 @@
  * limitations under the License.
  */
 
-namespace Google\Cloud\
+'use strict';
 ]]></content>
   <tabTrigger>copy</tabTrigger>
-  <scope>source.php, text.php</scope>
 </snippet>
